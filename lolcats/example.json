@@ -1,0 +1,1 @@
+{ "comment" : "This is your awesome speaker!", "picture" : { "$binary": { "base64": "MY IMAGE BASE64 FORMAT", "subType":"00"}}}
